@@ -1,2 +1,33 @@
 
 /* Your CSS Code here. */
+
+.row1{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center;
+	
+}
+
+.row{
+		display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center;
+	
+}
+.three{
+	background:green;
+	width:100px;
+	height:100px
+}
+.one{
+	background:red;
+	width:100px;
+	height:100px
+}
+.two{
+	background:yellow;
+	width:100px;
+	height:100px
+}
